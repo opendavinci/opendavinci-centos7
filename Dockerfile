@@ -34,7 +34,7 @@ RUN yum -y install \
     iproute \
     make \
     opencv-devel \
-    psmisc
+    psmisc \
     qt-devel \
     kernel-devel \
     wget
