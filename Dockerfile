@@ -31,11 +31,14 @@ RUN yum -y install \
     freeglut-devel \
     gcc \
     gcc-c++ \
+    git \
+    python27 \
     iproute \
     make \
     opencv-devel \
     psmisc \
-    qt-devel \
+    qt4-devel \
+    qwt5-qt4-devel \
     kernel-devel \
     wget
 
