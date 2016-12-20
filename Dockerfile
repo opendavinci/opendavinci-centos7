@@ -43,3 +43,4 @@ RUN yum -y install \
     kernel-devel \
     wget
 
+RUN yum -y install gdb-gdbserver
