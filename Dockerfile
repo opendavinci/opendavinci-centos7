@@ -44,3 +44,5 @@ RUN yum -y install \
     wget
 
 RUN yum -y install gdb-gdbserver
+
+RUN yum -y install ncurses-devel
